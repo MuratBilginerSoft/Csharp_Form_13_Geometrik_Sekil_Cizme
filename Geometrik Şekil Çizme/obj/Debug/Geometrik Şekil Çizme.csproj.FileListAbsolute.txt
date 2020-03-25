@@ -1,0 +1,10 @@
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\bin\Debug\Geometrik Şekil Çizme.exe.config
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\bin\Debug\Geometrik Şekil Çizme.exe
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\bin\Debug\Geometrik Şekil Çizme.pdb
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\obj\Debug\Geometrik Şekil Çizme.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\obj\Debug\Geometrik_Şekil_Çizme.Form1.resources
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\obj\Debug\Geometrik_Şekil_Çizme.Properties.Resources.resources
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\obj\Debug\Geometrik Şekil Çizme.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\obj\Debug\Geometrik Şekil Çizme.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\obj\Debug\Geometrik Şekil Çizme.exe
+c:\users\mrt_b\source\repos\Geometrik Şekil Çizme\Geometrik Şekil Çizme\obj\Debug\Geometrik Şekil Çizme.pdb
